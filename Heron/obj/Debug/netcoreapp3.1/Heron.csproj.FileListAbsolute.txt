@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\Heron\Heron\bin\Debug\netcoreapp3.1\Heron.exe
+C:\Users\Max Leonel\Desktop\Heron\Heron\bin\Debug\netcoreapp3.1\Heron.deps.json
+C:\Users\Max Leonel\Desktop\Heron\Heron\bin\Debug\netcoreapp3.1\Heron.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Heron\Heron\bin\Debug\netcoreapp3.1\Heron.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Heron\Heron\bin\Debug\netcoreapp3.1\Heron.dll
+C:\Users\Max Leonel\Desktop\Heron\Heron\bin\Debug\netcoreapp3.1\Heron.pdb
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.dll
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.pdb
+C:\Users\Max Leonel\Desktop\Heron\Heron\obj\Debug\netcoreapp3.1\Heron.genruntimeconfig.cache
